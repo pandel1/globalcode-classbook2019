@@ -1,0 +1,5 @@
+message="hello, my name is sam."
+echo $mesage
+
+
+
